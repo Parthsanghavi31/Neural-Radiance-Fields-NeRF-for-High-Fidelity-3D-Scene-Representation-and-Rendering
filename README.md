@@ -63,13 +63,13 @@ The main training loop trains the NeRF model using the provided dataset. During 
 
 The NeRF model's capability is showcased through the novel view reconstruction of the lego dataset. Below is the visual representation of the reconstructed scene alongside the original image for comparison.
 
+![Original Image](https://github.com/Parthsanghavi31/Neural-Radiance-Fields-NeRF-for-High-Fidelity-3D-Scene-Representation-and-Rendering/blob/main/Orignal%20Image%20of%20Nerf.jpg)
+*NeRF algorithm working*
+
 ![Novel View](https://github.com/Parthsanghavi31/Neural-Radiance-Fields-NeRF-for-High-Fidelity-3D-Scene-Representation-and-Rendering/blob/main/3D_Test_image_PSNR.png)
 *Novel View Reconstruction*
 
-![Original Image](./path_to_original_image.jpg)
-*Original Image from the Lego Dataset*
-
-The Peak Signal-to-Noise Ratio (PSNR) metric, which quantifies the quality of the reconstructed image compared to the original, is computed for the novel view. The obtained PSNR score for the scene is: **XX.XX dB** (replace XX.XX with the actual PSNR value).
+The Peak Signal-to-Noise Ratio (PSNR) metric, which quantifies the quality of the reconstructed image compared to the original, is computed for the novel view. The obtained PSNR score for the scene is: **25.45 dB** (replace XX.XX with the actual PSNR value).
 
 
 ## Acknowledgements
