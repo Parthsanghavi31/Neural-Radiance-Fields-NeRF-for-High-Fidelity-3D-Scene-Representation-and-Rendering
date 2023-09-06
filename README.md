@@ -70,7 +70,7 @@ The NeRF model's capability is showcased through the novel view reconstruction o
 ![Novel View](https://github.com/Parthsanghavi31/Neural-Radiance-Fields-NeRF-for-High-Fidelity-3D-Scene-Representation-and-Rendering/blob/main/3D_Test_image_PSNR.png)
 *Novel View Reconstruction*
 
-The Peak Signal-to-Noise Ratio (PSNR) metric, which quantifies the quality of the reconstructed image compared to the original, is computed for the novel view. The obtained PSNR score for the scene is: **25.45 dB** (replace XX.XX with the actual PSNR value).
+The Peak Signal-to-Noise Ratio (PSNR) metric, which quantifies the quality of the reconstructed image compared to the original, is computed for the novel view. The obtained PSNR score for the scene is: **25.45 dB**.
 
 
 ## Acknowledgements
